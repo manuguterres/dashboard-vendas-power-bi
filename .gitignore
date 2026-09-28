@@ -1,0 +1,10 @@
+# Power BI
+*.pbi-tools-settings.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
